@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Divyanshi 👋
+🎓 B.Tech Computer Science and Engineering, Vellore Institute of Technology (CGPA: 8.46)
+💻 Building full-stack applications and AI/ML systems — from applied machine learning to LLM-orchestrated platforms
+🌱 Currently deepening expertise in LangChain/LangGraph multi-agent orchestration and cloud deployment
+📫 Reach me: nigam.divyanshi.lkw@gmail.com · LinkedIn
+🛠️ Languages & Tools
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nextjs,nodejs,express,flask,mongodb,postgres,tailwind,aws,docker,git,github,vscode" />
+Featured Projects
 
-<!--
-**nigam-divyanshi-dev/nigam-divyanshi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AvioraAI — Microservices-driven multi-agent AI platform with LangChain/LangGraph orchestration, custom API Gateway, and Redis caching (90%+ hit rate, 300ms → <50ms response time).
 
-Here are some ideas to get you started:
+AI Resume Builder — Full-stack MERN resume builder with Gemini-powered content generation and live-preview templates. Deployed on Vercel/Render.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fastag Fraud Detection — ML fraud classifier; Random Forest achieved 99.7% accuracy and 100% recall on FASTag transaction data.
